@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[7976],{4666:function(e,n,t){t.r(n);var a=t(6540),s=t(6462),u=t(1354);n.default=()=>{const e=(0,s.useLocation)(),n=(0,a.useMemo)(()=>{const n=((null==e?void 0:e.pathname)||"").replace(/\/+$/,"").split("/");return n[n.length-1]||void 0},[null==e?void 0:e.pathname]);return a.createElement(u.A,{messageId:n})}}}]);
+//# sourceMappingURL=component---src-pages-test-cms-message-[id]-index-tsx-871c0c08387de6017c1f.js.map
