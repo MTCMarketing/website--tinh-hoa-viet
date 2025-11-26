@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-cms-user-tsx-e610ee70ba01d8171b0c.js","mappings":"yHAIA,cAAqBA,EAAAA,cAACC,EAAAA,EAAI,K","sources":["webpack:///./src/pages/cms/user.tsx"],"sourcesContent":["import React from \"react\";\nimport User from \"../../componets/cms/User\";\n\n\nexport default () => <User/>"],"names":["React","User"],"sourceRoot":""}
