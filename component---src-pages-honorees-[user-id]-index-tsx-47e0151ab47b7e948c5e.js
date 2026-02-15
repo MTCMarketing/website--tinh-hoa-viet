@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[4380],{1643:function(e,n,t){t.r(n);var a=t(6540),l=t(6462),u=t(2666),r=t(1045);n.default=()=>{const e=(0,l.useLocation)();(0,a.useMemo)(()=>{const n=((null==e?void 0:e.pathname)||"").replace(/\/+$/,"").split("/");return n[n.length-1]||void 0},[null==e?void 0:e.pathname]);return a.createElement(a.Fragment,null,a.createElement(u.A,{honoreeData:r.a[2]}))}}}]);
+//# sourceMappingURL=component---src-pages-honorees-[user-id]-index-tsx-47e0151ab47b7e948c5e.js.map
